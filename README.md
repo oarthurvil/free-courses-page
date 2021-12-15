@@ -51,5 +51,4 @@ Desktop:
 ## Author
 
 - LinkedIn - [@oarthurvil](www.linkedin.com/in/oarthurvil)
-- Frontend Mentor - [@oarthurvil](https://www.frontendmentor.io/profile/oarthurvil)
 
