@@ -35,7 +35,7 @@ Desktop:
 
 ### Links
 
-- Solution URL: [Link](https://oarthurvil.github.io/free-courses-page/)
+- Solution URL: [Link](https://oarthurvil.github.io/free-courses-page/){:target="_blank" rel="noopener"}
 
 ## My process
 
