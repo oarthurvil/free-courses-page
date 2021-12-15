@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+
+    margin: 0px;
+    padding: 0px;
+
+    list-style: none;
+    text-decoration: none;
+
+    --primary-color: #1d3557;
+    --secundary-color: #f1faee;
+    --light-blue: #a8dadc;
+
+    font-size: 14px;    
+    font-family: 'Source Code Pro', monospace;
+    color: var(--primary-color);
+}
+

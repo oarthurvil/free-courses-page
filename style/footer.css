@@ -1,0 +1,46 @@
+footer{
+    height: 80px;
+    width: 100vw;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 40px;
+
+    background-color: var(--secundary-color);
+}
+#contato {
+    width: 80%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#copyright {
+    flex: 1;
+}
+
+#copyright p{
+    text-align: center;
+}
+
+#footer-social-media{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#footer-social-media img{
+    width: 40px;
+    margin: 0px 10px;
+}
+
+
+@media screen and (min-width: 1440px){
+    #contato{
+        width: 60%;
+    }
+}

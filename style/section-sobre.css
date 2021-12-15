@@ -1,0 +1,30 @@
+#sobre{
+    width: 100vw;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: var(--secundary-color); 
+
+    padding: 120px 0 60px 0;
+}
+
+#sobre-container{
+    width: 80%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#sobre-container h2{
+    font-size: 20px;  
+    padding: 0 0 40px 0;
+}
+
+#sobre-paragrafo p{
+    color: var(--primary-color);
+    text-align: justify;
+}
